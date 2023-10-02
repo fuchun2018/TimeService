@@ -1,0 +1,13 @@
+.vs/
+MessageService.Adapter/bin/
+MessageService.Adapter/obj/
+MessageService.AdapterFacts/bin/
+MessageService.AdapterFacts/obj/
+MessageService/obj/
+MessageServiceProvider.Adapter/bin/
+MessageServiceProvider.Adapter/obj/
+MessageServiceProvider/bin/
+MessageServiceProvider/obj/
+TimerService/bin/
+TimerService/obj/
+MessageService/bin/

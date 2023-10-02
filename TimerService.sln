@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerService", "TimerService\TimerService.csproj", "{82A7B1E9-F860-410E-810D-7FD936D0793A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageService", "MessageService\MessageService.csproj", "{57D69596-29EE-4B49-9EFD-FF71ED462F50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageService.Adapter", "MessageService.Adapter\MessageService.Adapter.csproj", "{71C2A950-7DE4-41D0-BF36-6A7C37204381}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageServiceProvider", "MessageServiceProvider\MessageServiceProvider.csproj", "{CB177AA5-EB1F-47D8-9993-8FC2229691AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageServiceProvider.Adapter", "MessageServiceProvider.Adapter\MessageServiceProvider.Adapter.csproj", "{89D4E28D-3884-4C70-91CE-7DF5C79EE403}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageService.Adapter.Facts", "MessageService.AdapterFacts\MessageService.Adapter.Facts.csproj", "{45BD07B3-1B19-4969-A877-CB73A3EC25D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82A7B1E9-F860-410E-810D-7FD936D0793A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82A7B1E9-F860-410E-810D-7FD936D0793A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82A7B1E9-F860-410E-810D-7FD936D0793A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82A7B1E9-F860-410E-810D-7FD936D0793A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57D69596-29EE-4B49-9EFD-FF71ED462F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57D69596-29EE-4B49-9EFD-FF71ED462F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57D69596-29EE-4B49-9EFD-FF71ED462F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57D69596-29EE-4B49-9EFD-FF71ED462F50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71C2A950-7DE4-41D0-BF36-6A7C37204381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71C2A950-7DE4-41D0-BF36-6A7C37204381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71C2A950-7DE4-41D0-BF36-6A7C37204381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71C2A950-7DE4-41D0-BF36-6A7C37204381}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB177AA5-EB1F-47D8-9993-8FC2229691AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB177AA5-EB1F-47D8-9993-8FC2229691AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB177AA5-EB1F-47D8-9993-8FC2229691AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB177AA5-EB1F-47D8-9993-8FC2229691AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89D4E28D-3884-4C70-91CE-7DF5C79EE403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89D4E28D-3884-4C70-91CE-7DF5C79EE403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89D4E28D-3884-4C70-91CE-7DF5C79EE403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89D4E28D-3884-4C70-91CE-7DF5C79EE403}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45BD07B3-1B19-4969-A877-CB73A3EC25D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45BD07B3-1B19-4969-A877-CB73A3EC25D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45BD07B3-1B19-4969-A877-CB73A3EC25D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45BD07B3-1B19-4969-A877-CB73A3EC25D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8E10AF3-2CC3-47D7-B4AB-72C82C3C2EFB}
+	EndGlobalSection
+EndGlobal
